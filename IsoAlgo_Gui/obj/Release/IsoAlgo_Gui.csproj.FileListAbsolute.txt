@@ -1,0 +1,9 @@
+C:\Users\Daniel\documents\visual studio 2012\Projects\Neifeldt_IsoAlgo\Neifeldt_IsoAlgo\bin\Release\IsoAlgo_Gui.exe.config
+C:\Users\Daniel\documents\visual studio 2012\Projects\Neifeldt_IsoAlgo\Neifeldt_IsoAlgo\bin\Release\IsoAlgo_Gui.exe
+C:\Users\Daniel\documents\visual studio 2012\Projects\Neifeldt_IsoAlgo\Neifeldt_IsoAlgo\bin\Release\IsoAlgo_Gui.pdb
+C:\Users\Daniel\documents\visual studio 2012\Projects\Neifeldt_IsoAlgo\Neifeldt_IsoAlgo\obj\Release\IsoAlgo_Gui.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\documents\visual studio 2012\Projects\Neifeldt_IsoAlgo\Neifeldt_IsoAlgo\obj\Release\IsoAlgo_Gui.Properties.Resources.resources
+C:\Users\Daniel\documents\visual studio 2012\Projects\Neifeldt_IsoAlgo\Neifeldt_IsoAlgo\obj\Release\IsoAlgo_Gui.csproj.GenerateResource.Cache
+C:\Users\Daniel\documents\visual studio 2012\Projects\Neifeldt_IsoAlgo\Neifeldt_IsoAlgo\obj\Release\IsoAlgo_Gui.exe
+C:\Users\Daniel\documents\visual studio 2012\Projects\Neifeldt_IsoAlgo\Neifeldt_IsoAlgo\obj\Release\IsoAlgo_Gui.pdb
+C:\Users\Daniel\documents\visual studio 2012\Projects\Neifeldt_IsoAlgo\Neifeldt_IsoAlgo\obj\Release\IsoAlgo_Gui.Form1.resources

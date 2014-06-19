@@ -1,0 +1,9 @@
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\IsoAlgo_Gui\IsoAlgo_Gui\bin\Debug\IsoAlgo_Gui.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\IsoAlgo_Gui\IsoAlgo_Gui\bin\Debug\IsoAlgo_Gui.exe
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\IsoAlgo_Gui\IsoAlgo_Gui\bin\Debug\IsoAlgo_Gui.pdb
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\IsoAlgo_Gui\IsoAlgo_Gui\obj\Debug\IsoAlgo_Gui.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\IsoAlgo_Gui\IsoAlgo_Gui\obj\Debug\IsoAlgo_Gui.Form1.resources
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\IsoAlgo_Gui\IsoAlgo_Gui\obj\Debug\IsoAlgo_Gui.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\IsoAlgo_Gui\IsoAlgo_Gui\obj\Debug\IsoAlgo_Gui.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\IsoAlgo_Gui\IsoAlgo_Gui\obj\Debug\IsoAlgo_Gui.exe
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\IsoAlgo_Gui\IsoAlgo_Gui\obj\Debug\IsoAlgo_Gui.pdb
